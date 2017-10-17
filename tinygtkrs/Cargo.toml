@@ -1,0 +1,8 @@
+[package]
+name = "tinygtkrs"
+version = "0.1.0"
+authors = ["Hadrien Nilsson <hadrien@psydk.org>"]
+
+[dependencies.gtk]
+version = "0.1.0"
+features = ["v3_10"]

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=tinygtk
+Exec=tinygtk
+Terminal=false
+Icon=tinygtk
+Categories=Utility;GTK;
